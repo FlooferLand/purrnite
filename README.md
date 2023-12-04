@@ -1,7 +1,7 @@
 # Purrnite
 #### ⚠️ it works, but it's a work in progress! ⚠️
 
-<img src="./raven-team-leader.gif" alt="raven team leader my beloved" height="300px" /> <br/>
+<img src="./marketing/raven-team-leader.gif" alt="raven team leader my beloved" height="300px" /> <br/>
 <small><i>(look at her go she's adorable)</i></small>
 <br/>
 
